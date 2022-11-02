@@ -1,3 +1,8 @@
-# mereen
+# présentation du cours
 
-ciao ciao 
+
+# objectives
+ 
+ 
+
+# 
