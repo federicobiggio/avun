@@ -1,0 +1,15 @@
+Opérateurs booléens pour préciser la recherche : 
+
+
+ET, OU, SAUF (AND, OR, NOT)           : inclure, exclude
+« … »                                 : recherche l’expression exacte
+- (es : veille -ecran)                : exclure un terme de la recherche
+.. (abonnement Internet 20..30 euros) : recherche les valeurs comprises entre deux nombres
+()                                    : Elles permettent de limiter la portée des opérateurs booléens et/ou d’introduire un ordre de priorité entre les                                            différentes parties d’une requête. Exemple : (commerce OU paiement) ET électronique repérera les entrées qui                                                contiennent à la fois électronique et soit commerce soit paiement soit ces deux termes.
+
+NEAR ou FOLLOWED BY                   : opérateur de proximité, il permet de rechercher des entrées où les mots désirés apparaissent à l’intérieur d’une «                                        fenêtre » de voisinage dont l’ampleur varie selon les outils (généralement entre 10 et 100 mots, parfois beaucoup                                          plus). Exemples : commerce NEAR électronique repérera les entrées où ces deux termes figurent près l’un de l’autre.                                        Commerce FOLLOWED BY électronique exigera, de plus, que l’ordre de saisie des mots soit respecté. Commerce ADJ                                              électronique, pour sa part, recherchera les entrées où ces deux termes apparaissent immédiatement l’un à côté de                                            l’autre, peu importe l’ordre d’apparition.
+
+site:google.fr«---»                   : recherche un terme dans un site
+cache: google.fr                      : recherche des versions mises en cache par Google
+define:veille                         : define
+filetype:pdf veille                   : rechercher un format de document precis
