@@ -7,7 +7,7 @@ prof. Federico Biggio e-mail : federico.biggio02@univ-paris8.fr
 <p> Dans ce répertoire, vous trouverez du matériel, des conseils, des avis sur les cours et les activités </p>
 
 <ul> Le processus d'évaluation tiendra compte de trois aspects :
-  <li>1) la présentation du projet final, accompagné d'un dossier d'un maximum de 10 pages par groupe</li>
-  <li>2) la discussion (individuelle et collectif) à partir de la présentation finale </li>
-  <li>3) la participation active, l'engagement, l'esprit critique</li>
+  <li>la présentation du projet final, accompagné d'un dossier d'un maximum de 10 pages par groupe</li>
+  <li>la discussion (individuelle et collectif) à partir de la présentation finale </li>
+  <li>la participation active, l'engagement, l'esprit critique</li>
 </ul>
