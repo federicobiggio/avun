@@ -1,6 +1,6 @@
 <b>DÉTERMINER LES RÔLES DE L'ÉQUIPE</b>
 
-<p><u>LE PLANIFICATEUR/TRICE</u></p>
+<u>LE PLANIFICATEUR/TRICE</u>
 <p>Le planificateur/trice est responsable de la comparaison et de la gestion des plannings de l'équipe, et s'assure que
     l'équipe progresse dans les activités à temps</p>
 <p>Vous appréciez l'efficacité et l'exécution des tâches. Vous aimez coordonner les projets et maintenir le projet et
