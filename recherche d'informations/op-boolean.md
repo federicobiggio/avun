@@ -18,7 +18,7 @@ NEAR – Trouver des documents dans lesquels les termes choisis sont simultaném
 
 ? – Inséré à la fin du mot recherché à la place de la dernière lettre, il renvoie tous les documents dans lesquels le mot apparaît au masculin ou au féminin. le féminin et/ou le singulier ou le pluriel
 
-* – Inséré après la racine du mot recherché, il renvoie tous les documents dans lesquels des termes ayant la même racine sont présents
+use * – Inséré après la racine du mot recherché, il renvoie tous les documents dans lesquels des termes ayant la même racine sont présents
 
 site:google.fr«---»                   : recherche un terme dans un site
 
