@@ -44,4 +44,10 @@ Slideshare – https://es.slideshare.net/
 Search Carrot – https://search.carrot2.org/#/search/web
 https://www.wolframalpha.com/ : utilise des algorithmes pour répondre aux questions des internautes
 
+# recherche statistique 
+
+Google Trend – https://trends.google.fr/trends/
+Google Ngram Viewer – https://books.google.com/ngrams/ 
+Statista – https://www.statista.com/
+
 
