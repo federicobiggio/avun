@@ -4,7 +4,7 @@ Ces relations sont:
 * la relation d’intersection, que l’on représente avec l’opérateur ET, et 
 * la relation d’exclusion, que l’on représente avec l’opérateur SAUF
 
-Opérateurs booléens pour préciser la recherche : 
+## Opérateurs booléens pour préciser la recherche : 
 
 ET, OU, SAUF (AND, OR, NOT)           : inclure, exclude
 "…"                                   : recherche l’expression exacte
