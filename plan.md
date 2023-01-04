@@ -1,6 +1,6 @@
 Tous les cours ont lieu de 9h00 à 15h00, à l'exception du 9 mars (9h00-13h00) et du 10 mars (9h00-12h00).
 
-* 05.01. 23 : **méthodes de recherche** (présentation du cours ; définition de « recherche », questions, choix, objets, concepts et variables ; l’analyse documentaire et recherche d'information sur bases des données en ligne ; brainstorming, cartes mentales, outils de la recherche)
+* 05.01.23 : **méthodes de recherche** (présentation du cours ; définition de « recherche », questions, choix, objets, concepts et variables ; l’analyse documentaire et recherche d'information sur bases des données en ligne ; brainstorming, cartes mentales, outils de la recherche)
 
 * 06.01.23 : **méthodes de recherche** (type de conception, recherche qualitative et quantitative, SWOT, analyse du contenu et analyse concurrentielle ; rédaction d’un questionnaire et analyse concurrentielle)
 
