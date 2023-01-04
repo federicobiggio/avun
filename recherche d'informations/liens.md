@@ -1,6 +1,6 @@
 Dans ce document, vous trouverez quelques liens utiles pour la recherche d'informations. 
 
-###### articles universitaires
+## articles universitaires
 
 Google Scholar – https://scholar.google.com
 HAL – https://hal.archives-ouvertes.fr
@@ -14,41 +14,37 @@ JSTOR – https://www.jstor.org
 Cambridge University Press (Cambridge Core) https://www.cambridge.org/
 Sage (Sage Journals) https://journals.sagepub.com/
 
-###### nouvelles
+## nouvelles
 
 Tous les sites des rédactions des grands quotidiens et hebdomadaires
 Google News – https://news.google.com
 
-###### base de données
+## base de données
 
 EBSCO Publishing – https://www.ebsco.com/
 Europeana – https://www.europeana.eu/fr
 BNF – https://bdl.bnf.fr/bases-de-donnees-par-titre
 Re3data – https://www.re3data.org/
-corpusdata.org
-https://datasetsearch.research.google.com/
-https://corpus.byu.edu
-cyu.libguides
 
-###### livres
+## livres
 
-https://openlibrary.org/
-https://www.gutenberg.org/
+Open Library – https://openlibrary.org/
+Project Gutenberg – https://www.gutenberg.org/
 Scribd – https://fr.scribd.com
 
-###### recherche generale:
+## recherche generale:
 
 Exalead – https://www.exalead.com/search/
 Waybackmachine, Internet Archive – https://archive.org/
 Slideshare – https://es.slideshare.net/ 
 Search Carrot – https://search.carrot2.org/#/search/web
-https://www.wolframalpha.com/ : utilise des algorithmes pour répondre aux questions des internautes
+Wolfram Alpha – https://www.wolframalpha.com/ : utilise des algorithmes pour répondre aux questions des internautes
 
-###### recherche statistique 
+## recherche statistique 
 
 Google Trend – https://trends.google.fr/trends/
 Google Ngram Viewer – https://books.google.com/ngrams/ 
-Google Dataset Search
+Google Dataset Search – https://datasetsearch.research.google.com/
 Statista – https://www.statista.com/
 World Values Survey Data analysis tool – https://www.worldvaluessurvey.org/WVSOnline.jsp (projet de recherche mondial qui étudie les valeurs et les croyances des gens, leur évolution dans le temps et leur impact social et politique)
 Progedo, Catalogue de données en sciences humaines et sociales pour la recherche – https://data.progedo.fr/
