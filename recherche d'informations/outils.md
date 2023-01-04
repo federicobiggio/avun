@@ -8,12 +8,8 @@ Le flux RSS (Really Simple Syndication) est une technologie de veille qui permet
 
 Grâce à cette technologie, vous allez pouvoir accéder à l’intégralité des articles postés par ces sites. C’est un peu comme le fil d’actualités des réseaux sociaux, tous les contenus des personnes que vous suivez se retrouvent sur ce fil. Il s’agit donc d’un moyen de s’abonner aux publications d’un site ou d’un blog.
 
-feed readers : 
+feed readers (browser extensions) : 
 * Feedly 
-* feedbro (firefox extension)
-
-RSS feed generators: 
-* rss.app
-* fetchrss.com
+* feedbro 
 
 Zotero 
