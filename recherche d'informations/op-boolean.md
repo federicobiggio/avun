@@ -1,8 +1,8 @@
 La logique booléennepermet de représenter trois types de relations entre les termes d’une équation ou des ensembles de documents. 
 Ces relations sont: 
-(1) la relation d’union, que l’on représente avec l’opérateur OU, 
-(2) la relation d’intersection, que l’on représente avec l’opérateur ET, et 
-(3) la relation d’exclusion, que l’on représente avec l’opérateur SAUF
+* la relation d’union, que l’on représente avec l’opérateur OU, 
+* la relation d’intersection, que l’on représente avec l’opérateur ET, et 
+* la relation d’exclusion, que l’on représente avec l’opérateur SAUF
 
 Opérateurs booléens pour préciser la recherche : 
 
