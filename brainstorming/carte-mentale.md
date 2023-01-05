@@ -8,7 +8,7 @@ https://app.mindmup.com
 
 Archive de cartes mentales
 
-https://www.mindmeister.com/
+https://www.mindmeister.com/fr/mind-maps/marketing
 
 
 
