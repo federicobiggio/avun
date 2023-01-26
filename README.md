@@ -1,4 +1,4 @@
-Bienvenue au cours AVUN de <b> Méthodes de Recherche pour l'Entreprise </b> !
+Bienvenue !
 
 prof. Federico Biggio e-mail : federico.biggio02@univ-paris8.fr
 
